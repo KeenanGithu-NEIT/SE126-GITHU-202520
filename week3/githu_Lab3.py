@@ -13,9 +13,14 @@ Voter Registration Lab (or the solution file!) as starter code, but edit it to c
 file and store data into lists, then use a for loop to process each voter and their data to find the 4 totals.
 
 VARIABLE DICTIONARY:
-
+total_records   total number of records processed
+cant_register   number of people who can't register
+not_registered  number of people who can register, but didn't
+didnt_vote      number of people who registered, but didn't vote
+voted           number of people who voted
 
 NOTES:
+None
 
 """
 import csv
