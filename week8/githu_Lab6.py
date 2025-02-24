@@ -4,9 +4,12 @@
 
 """
 PROGRAM PROMPT:
-
+Allow a user to choose a seat in a plane's seating chart.
 
 VARIABLE DICTIONARY:
+print_seating       prints the seats
+askToContinue       function to ask about continuing the main loop
+plane_seats         2d list of plane seats and their rows
 
 NOTES:
 None
